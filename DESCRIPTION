@@ -15,7 +15,7 @@ License: GPL-3
 Depends:
 	BiocGenerics (>= 0.1.0),
 	GenomicRanges (>= 1.0.4),
-	rtracklayer (>= 1.34.1),
+	rtracklayer (>= 0.34.1),
 	methods,
 	stats,
     R (>= 3.0.0),
